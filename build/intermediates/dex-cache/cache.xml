@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/daniebruwer/.android/build-cache/0dbf43dc48828d85f99e42c022ab12170553f8c2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/daniebruwer/Developer/PassportReader_Sample_Sdk/myapplication/build/intermediates/pre-dexed/debug/classes_c54eee4baa198691fec933ad78ab0cc15e516f26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daniebruwer/Developer/PassportReader_Sample_Sdk/ocridcardlibrary/build/intermediates/bundles/default/libs/idcard_sdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8148cbdac106cbec94d6e68476457a220d0f4c0a">
+        <dex dex="/Users/daniebruwer/Developer/PassportReader_Sample_Sdk/myapplication/build/intermediates/pre-dexed/debug/idcard_sdk_1e0a7fce73e74cc40f60dd27c122afcd30dcfc59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daniebruwer/.android/build-cache/a82392480c6be2f1e659be532b14373964f5b95b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/daniebruwer/Developer/PassportReader_Sample_Sdk/myapplication/build/intermediates/pre-dexed/debug/classes_854c4571f0a702551795e41f3200ff4e3da9c25b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daniebruwer/.android/build-cache/7e336c1279db76f0afc095a14cc26c69441268d5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/daniebruwer/Developer/PassportReader_Sample_Sdk/myapplication/build/intermediates/pre-dexed/debug/classes_1d4bcb77ecf5249c477eb2c9668d7714a81a6d35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daniebruwer/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/daniebruwer/Developer/PassportReader_Sample_Sdk/myapplication/build/intermediates/pre-dexed/debug/support-annotations-25.1.1_9cb0a1c9ec4a087b089bd1a754e302fbdb6031b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daniebruwer/.android/build-cache/af4355582e935132827d25684d7141ce6263b882/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/daniebruwer/Developer/PassportReader_Sample_Sdk/myapplication/build/intermediates/pre-dexed/debug/classes_d5aeb9487c355931c23fb8c78ae2d47c46c6d0bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daniebruwer/.android/build-cache/6c80ad1de9bbc108553fc28758374c3586524a4b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/daniebruwer/Developer/PassportReader_Sample_Sdk/myapplication/build/intermediates/pre-dexed/debug/classes_d24bc3801bda6917c879c83ea05e45d30aab75bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daniebruwer/Developer/PassportReader_Sample_Sdk/ocridcardlibrary/build/intermediates/bundles/default/libs/android_auth.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4d27dfbdbde1b11073693921726565d29d2ab95f">
+        <dex dex="/Users/daniebruwer/Developer/PassportReader_Sample_Sdk/myapplication/build/intermediates/pre-dexed/debug/android_auth_92cc3061e58e1b59010bdc3e11fd3fc0c25aeb60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daniebruwer/Developer/PassportReader_Sample_Sdk/ocridcardlibrary/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="663f1797109096a987764ef93b1597a078a67fd7">
+        <dex dex="/Users/daniebruwer/Developer/PassportReader_Sample_Sdk/myapplication/build/intermediates/pre-dexed/debug/classes_4456aae554b179caa13eafa2261a99e5dc8950e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daniebruwer/Developer/PassportReader_Sample_Sdk/ocridcardlibrary/build/intermediates/bundles/default/libs/pki.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="10e741f82591708922d972f0bd0e074350a85327">
+        <dex dex="/Users/daniebruwer/Developer/PassportReader_Sample_Sdk/myapplication/build/intermediates/pre-dexed/debug/pki_31f8da2e3be46402a206ee38de92d4924d5a9ceb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daniebruwer/.android/build-cache/6f6ce29e402abac32d638a4f6fd8bd8b90f0d6b9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/daniebruwer/Developer/PassportReader_Sample_Sdk/myapplication/build/intermediates/pre-dexed/debug/classes_39768e070c696dcb5a1322e30886fd69fa7cf1b7.jar" />
+    </item>
+
+</items>
