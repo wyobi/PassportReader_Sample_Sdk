@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="Gradle: __local_jars__:/Users/daniebruwer/Developer/PassportReader_Sample_Sdk/ocridcardlibrary/libs/pki.jar:unspecified@jar">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/ocridcardlibrary/libs/pki.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
